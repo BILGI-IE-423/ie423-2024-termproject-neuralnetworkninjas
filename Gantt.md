@@ -9,14 +9,14 @@ gantt
        Determining the Research Questions                 :done, des3, 2024-03-06,2024-05-05
 
        section Preprocessing
-       Data Preparation                                   :done, des4, 2024-04-25, 1d                             
+       Data Preparation                                   :done, des4, 2024-04-25, 10d                             
        Feedback                                           :done, des5, 2024-04-25, 5d
 
        section Modeling
-       Splitting train/test datasets                      :active, des8, 2024-05-04, 1d
+       Splitting train/test datasets                      :active, des8, 2024-05-04, 4d
        Scaling                                            :active, des9, 2024-05-05, 5d
        Method Determination                               :active, des10, 2024-05-05, 5d
-       Model Training                                     :active, des11, 2024-05-10, 5d
+       Model Training                                     :active, des11, 2024-05-10, 15d
        Model Validation                                   :active, des12, 2024-05-15, 4d
 
        section Evaluating
