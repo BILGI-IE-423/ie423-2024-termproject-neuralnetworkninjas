@@ -10,7 +10,7 @@ gantt
 
        section Preprocessing
        Data Preparation                                   :done, des4, 2024-04-25, 10d                             
-       Feedback                                           :done, des5, 2024-04-25, 5d
+       Feedback                                           :done, des5, 2024-04-25, 10d
 
        section Modeling
        Splitting train/test datasets                      :active, des8, 2024-05-04, 4d
