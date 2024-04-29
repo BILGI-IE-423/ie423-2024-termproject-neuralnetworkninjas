@@ -2,6 +2,11 @@
 
   ## *Project Proposal:Enhancing Customer Service Efficiency through Personality-Based Staff Training*
   
+  ## *Datasets*
+  [HotelCustomersDataset.xlsx](https://github.com/BILGI-IE-423/ie423-2024-termproject-neuralnetworkninjas/files/15154842/HotelCustomersDataset.xlsx)
+  
+  [marketing_campaign.xlsx](https://github.com/BILGI-IE-423/ie423-2024-termproject-neuralnetworkninjas/files/15154844/marketing_campaign.xlsx)
+
   ## *Abstract*
 
 This study looks at how training staff based on people's personalities can make customer service better in different industries. We'll study what kinds of personalities customers have and how that affects how they like to be helped. Then, we'll create training programs that fit these different personalities. By using both numbers and stories to study this, we hope to find out why this kind of training works and give tips on how to do it well. This research can help businesses give better service and do better overall.
