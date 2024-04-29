@@ -10,7 +10,7 @@ This study looks at how training staff based on people's personalities can make 
 
 We want to find out if training staff based on people's personalities can make customer service better. We'll study what customers are like and use that to make training programs that fit them. We'll do a lot of research and look at the results to figure out how this kind of training can help businesses do well. Our goal is to help businesses give better service and be more successful.
 
-  ## *Objevtives*
+  ## *Objectives*
 1. To Analyze Customer Personality Traits: Conduct an analysis of customer personality traits through the collection of primary data using validated personality assessment tools.
 2. To Develop Tailored Training Models: Utilize insights from customer personality analysis to develop targeted staff training models that align with different customer personality types.
 3. To Explore Potential Advantages: Investigate the potential benefits of personalized staff training in improving service efficiency, customer satisfaction, and overall business performance.
