@@ -3,9 +3,11 @@
   ## *Project Proposal:Enhancing Customer Service Efficiency through Personality-Based Staff Training*
   
   ## *Datasets*
-  [HotelCustomersDataset.xlsx](https://github.com/BILGI-IE-423/ie423-2024-termproject-neuralnetworkninjas/files/15154842/HotelCustomersDataset.xlsx)
+  [HotelCustomersDataset.xlsx](https://github.com/BILGI-IE-423/ie423-2024-termproject-neuralnetworkninjas/files/15154842/HotelCustomersDataset.xlsx): A hotel's customers dataset: Personal, behavioral, demographic, and geographic data from a hotel in Lisbon.
+This dataset is ideal for analyzing trends in customer purchasing behavior, effectiveness of marketing strategies, and potentially predicting future buying patterns or campaign responses.
+
   
-  [marketing_campaign.xlsx](https://github.com/BILGI-IE-423/ie423-2024-termproject-neuralnetworkninjas/files/15154844/marketing_campaign.xlsx)
+  [marketing_campaign.xlsx](https://github.com/BILGI-IE-423/ie423-2024-termproject-neuralnetworkninjas/files/15154844/marketing_campaign.xlsx): Analysis of company's ideal customers This dataset contains extensive information about customer interactions, purchases, and responses to marketing campaigns, allowing for analyses and insights into customer behavior.
 
   ## *Abstract*
 
