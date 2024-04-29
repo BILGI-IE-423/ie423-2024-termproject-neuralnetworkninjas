@@ -1,3 +1,6 @@
+# Gantt Chart for Project Timeline
+```mermaid
+gantt
        dateFormat  YYYY-MM-DD
        title IE 423 Project Time Line
 
@@ -23,5 +26,5 @@
 
        section Presentation
        Publishing                                         :active, des17, 2024-06-16, 1d
-    
+    ```
 
