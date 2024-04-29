@@ -20,6 +20,20 @@ We want to find out if training staff based on people's personalities can make c
 2. To Develop Tailored Training Models: Utilize insights from customer personality analysis to develop targeted staff training models that align with different customer personality types.
 3. To Explore Potential Advantages: Investigate the potential benefits of personalized staff training in improving service efficiency, customer satisfaction, and overall business performance.
 
+ ## *Methodology*
+
+Data Collection: Gather data from the provided datasets on customer personality traits and service interaction preferences.
+
+Data Preprocessing: Clean and preprocess the data to ensure quality and consistency.
+
+Data Analysis: Use machine learning algorithms to identify correlations between personality traits and service preferences.
+
+Training Program Development: Create a training curriculum based on the analysis.
+
+Implementation: Conduct the training program with hotel staff.
+
+Evaluation: Measure the effectiveness of the training through A/B testing and customer feedback.
+
 
   ## *Conclusion*
 
