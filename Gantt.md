@@ -21,7 +21,7 @@ gantt
 
        section Evaluating
        Model Testing                                      :active, des13, 2024-05-19,20d
-       Model Evaluation                                   :active, des14, 2024-05-25, 5d
+       Model Evaluation                                   :active, des14, 2024-05-25,15d
 
        section Presentation
        Publishing                                         :active, des17, 2024-06-16, 1d
