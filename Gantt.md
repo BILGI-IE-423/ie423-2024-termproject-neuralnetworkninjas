@@ -1,9 +1,10 @@
-gantt
+```mermaid
+gantt  
        dateFormat  YYYY-MM-DD
        title IE 423 Project Time Line
 
        section Research
-       Data Sets Review                                   :done, des1, 2024-03-03,6d
+       Data Sets Rewiev                                   :done, des1, 2024-03-03,6d
        Additional Data Set Finding                        :done, des2, 2024-03-05,5d
        Determining the Research Questions                 :done, des3, 2024-03-06,2024-05-05
 
@@ -23,4 +24,6 @@ gantt
        Model Evaluation                                   :active, des14, 2024-05-25, 5d
 
        section Presentation
-       Publishing                                         :active, des17, 2024-06-16
+       Publishing                                         :active, des17, 2024-06-16, 1d
+    
+```
