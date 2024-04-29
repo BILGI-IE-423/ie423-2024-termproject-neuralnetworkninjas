@@ -20,7 +20,7 @@ gantt
        Model Validation                                   :active, des12, 2024-05-15, 4d
 
        section Evaluating
-       Model Testing                                      :active, des13, 2024-06-09,5d
+       Model Testing                                      :active, des13, 2024-05-19,20d
        Model Evaluation                                   :active, des14, 2024-05-25, 5d
 
        section Presentation
