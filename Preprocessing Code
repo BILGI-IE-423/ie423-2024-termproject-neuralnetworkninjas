@@ -1,0 +1,46 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+
+# Load the datasets
+personality_data = pd.read_csv('customer_personality_analysis.csv')
+hotel_data = pd.read_csv('hotels_customers_dataset.csv')
+
+# Assuming 'Customer_ID' is the common identifier and 'Service_Interaction_Preference' is the target variable
+# Merge datasets on 'Customer_ID'
+combined_data = pd.merge(personality_data, hotel_data, on='Customer_ID', how='inner')
+
+# Select features and target
+features = combined_data.drop(['Customer_ID', 'Service_Interaction_Preference'], axis=1)
+target = combined_data['Service_Interaction_Preference']
+
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(features, target, test_size=0.2, random_state=42)
+
+# Define numerical and categorical features
+numerical_cols = features.select_dtypes(include=['int64', 'float64']).columns
+categorical_cols = features.select_dtypes(include=['object', 'category']).columns
+
+# Create the preprocessing pipelines for both numerical and categorical data
+numerical_transformer = Pipeline(steps=[
+    ('scaler', StandardScaler())
+])
+
+categorical_transformer = Pipeline(steps=[
+    ('onehot', OneHotEncoder(handle_unknown='ignore'))
+])
+
+# Combine preprocessing steps
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('num', numerical_transformer, numerical_cols),
+        ('cat', categorical_transformer, categorical_cols)
+    ])
+
+# Preprocess the data
+X_train_prepared = preprocessor.fit_transform(X_train)
+X_test_prepared = preprocessor.transform(X_test)
+
+# The preprocessed data is now ready for machine learning model training and statistical analysis
