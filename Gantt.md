@@ -25,6 +25,6 @@ gantt
        Model Evaluation                                   :active, des14, 2024-05-25, 5d
 
        section Presentation
-       Publishing                                         :active, des17, 2024-06-16, 1d
+       Publishing                                         :active, des17, 2024-06-16
     ```
 
