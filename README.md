@@ -1,9 +1,5 @@
 
-Let's extract more detailed information from the notebook to create a comprehensive README.md that accurately reflects the contents and workflow of the Jupyter notebook. I'll now focus on summarizing the key steps and findings from the notebook to include them in the README.md file.
 
-Let's extract more details from the notebook cells.
-
-Based on the detailed content extracted from the notebook, here is an updated and more comprehensive README.md file that reflects the steps and findings from the Jupyter notebook:
 
 ---
 
