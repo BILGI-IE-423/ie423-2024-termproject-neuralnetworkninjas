@@ -104,9 +104,6 @@ This project underscores the importance of leveraging data analytics to inform s
 2. Ensure you have the required libraries installed (pandas, numpy, scikit-learn, matplotlib).
 3. Run the Jupyter notebook Last_Base.ipynb to see the data analysis and model development process.
 
-## Contact
-
-For any questions or further information, please contact [your_email@example.com].
 
 ---
 
