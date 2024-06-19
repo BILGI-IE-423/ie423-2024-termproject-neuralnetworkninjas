@@ -98,16 +98,7 @@ The findings demonstrate how personalized staff training can lead to significant
 
 This project underscores the importance of leveraging data analytics to inform staff training programs in the hospitality industry. By tailoring training based on customer personality insights, hotels can achieve greater efficiency and satisfaction, ultimately leading to a better guest experience.
 
-## How to Run
 
-1. Clone this repository.
-2. Ensure you have the required libraries installed (pandas, numpy, scikit-learn, matplotlib).
-3. Run the Jupyter notebook Last_Base.ipynb to see the data analysis and model development process.
-
-
----
-
-This README.md should now provide a clear overview of the entire workflow and findings from the Jupyter notebook. Let me know if you need any more details or modifications!
 
 
 
